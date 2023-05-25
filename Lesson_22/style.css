@@ -1,0 +1,12 @@
+form {
+    width: 300px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    border: 1px solid black;
+    width: 200px;
+}
